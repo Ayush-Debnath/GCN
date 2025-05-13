@@ -73,6 +73,6 @@ Reasearch paper: https://ieeexplore.ieee.org/document/10234379
 
 
 ## 🧠 Author
-👨‍💻 Ayush Debnath
+👨‍💻 Ayush Debnath<br>
 Engineering student, AI/ML, data scientist in the making
 
